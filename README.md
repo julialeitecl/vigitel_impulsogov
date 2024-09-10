@@ -1,6 +1,6 @@
 <h1 align="center">Sistema de Vigilância de Fatores de Risco e Proteção para Doenças Crônicas
 por Inquérito Telefônico (Vigitel)</h1>
-<p align="center"><i>Repositório para documentação do tratamento de dados da Analista de Avaliação de Impacto - ImpulsoGov.</i></p>
+<p align="center"><i>Repositório para documentação do tratamento de dados para a vaga de Analista de Avaliação de Impacto - ImpulsoGov.</i></p>
 
 # Problema
 "Qual o percentual de mulheres sem plano de saúde que não haviam feito preventivo de câncer de colo de útero (exame papanicolau) há mais de três anos nas capitais brasileiras?"
